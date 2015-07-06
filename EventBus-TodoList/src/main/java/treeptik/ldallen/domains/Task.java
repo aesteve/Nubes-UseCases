@@ -1,8 +1,5 @@
 package treeptik.ldallen.domains;
 
-import javax.xml.bind.annotation.XmlRootElement;
-
-@XmlRootElement
 public class Task {
 
 	private String name;
